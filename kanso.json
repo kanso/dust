@@ -1,6 +1,6 @@
 {
     "name": "dust",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "categories": ["templating"],
     "description": "Asynchronous templates for the browser and node.js",
     "url": "http://akdubya.github.com/dustjs/",
